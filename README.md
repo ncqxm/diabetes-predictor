@@ -36,3 +36,6 @@ Built with **scikit-learn** and **Streamlit** for real-time interactive inferenc
 ```bash
 git clone https://github.com/ncqxm/diabetes-predictor.git
 cd diabetes-predictor
+
+## 🙋‍♂️ Author
+Made with ❤️ by [ncqxm](https://github.com/ncqxm)
